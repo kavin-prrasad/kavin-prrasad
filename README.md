@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m Kavin Prrasad Arjunan
+- 👀 I’m interested in Coding
+- 🌱 I’m learning something new everyday
+- 💞️ I’m looking to collaborate on any open projects
 
 <!--
 **kavin-prrasad/kavin-prrasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
